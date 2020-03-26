@@ -1,0 +1,1 @@
+soundrecorder /file %USERPROFILE%\Desktop\zoom.wav
