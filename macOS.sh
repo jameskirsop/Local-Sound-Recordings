@@ -1,0 +1,1 @@
+defaults write com.apple.VoiceMemos RCVoiceMemosAudioQualityKey -int 1
